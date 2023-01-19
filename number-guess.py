@@ -16,3 +16,4 @@ while True:
     print("You guessed larger number")
 
 print('You took', guess,'guesses to get it correct')
+print('Thank you for playing')
